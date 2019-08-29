@@ -8,9 +8,9 @@
 
 int main {
 
- printf("Sam Hothan"\n);
- printf("Computer Engineering"\n);
- printf("Zak Rees"\n);
- printf("Undecided"\n);
+ printf("Sam Hothan\n");
+ printf("Computer Engineering\n");
+ printf("Zak Rees\n");
+ printf("Undecided\n");
  return 0;
 }
