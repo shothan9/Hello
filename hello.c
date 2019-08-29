@@ -1,6 +1,6 @@
 /* Author: Sam Hothan
-** Date: August 29 2019
-** A simple Hello World! Program
+*  Date: August 29 2019
+*  A simple Hello World! Program
 */
 
 #include <stdio.h>
@@ -9,6 +9,6 @@
 int main {
 
  printf("Sam Hothan"\n);
-
+ printf("Computer Engineering"\n)
  return 0;
 }
